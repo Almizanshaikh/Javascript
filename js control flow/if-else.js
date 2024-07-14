@@ -36,7 +36,7 @@ console.log(color);
 
 //nested if else
 
-var readlineSync = require('readline-sync');
+var readlineSync = require('readline-sync'); // third party package 
 let winningnumber = 10;
 // let userguess = prompt("guess a number
 let userguess = +readlineSync.question('guess a number ');
