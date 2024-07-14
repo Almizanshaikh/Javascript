@@ -34,7 +34,7 @@ if(mode === "dark"){
 console.log(color);
 
 
-// nested if else
+//nested if else
 
 var readlineSync = require('readline-sync');
 let winningnumber = 10;
