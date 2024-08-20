@@ -9,3 +9,4 @@ Person.prototype.sayHello = function() {
 
 const person1 = new Person('mizan', 20);
 person1.sayHello();  // Output: Hello, my name is mizan
+ 

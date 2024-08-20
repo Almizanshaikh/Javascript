@@ -1,1 +1,4 @@
-console.log("HELLO WORLD");
+Linux Commands
+
+ls -> list directory
+cd -> change dicrectory
